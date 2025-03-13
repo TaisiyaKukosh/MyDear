@@ -1,2 +1,2 @@
-print("Hi, Darling<3")
+print("Hi, Darling!")
 print("Do you like reading books?")
